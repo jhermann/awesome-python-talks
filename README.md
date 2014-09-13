@@ -17,3 +17,8 @@ An opinionated list of awesome videos related to Python, with a focus on trainin
 
 * [Awesome Python](https://github.com/vinta/awesome-python) – A curated list of awesome Python frameworks, libraries, and software.
 * [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks) – A list of online talks that people really enjoyed watching, and that are worthy of your time.
+
+
+## Contributing
+
+Contributions are welcome, please open a PR or an issue. In this early stage, proposals for adding missing categories are also useful. In your submissons, pleae stick to the established format of existing entries, and always include a duration and date.
