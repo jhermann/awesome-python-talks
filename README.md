@@ -1,4 +1,4 @@
-# Awesome Python Talks
+# ![logo](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/logo.png) Awesome Python Talks
 
 An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 
