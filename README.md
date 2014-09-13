@@ -7,6 +7,8 @@ An opinionated list of awesome videos related to Python, with a focus on trainin
 
 Writing pythonic code in good style, and for humans…
 
+* [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [49 min, PyCon US 2013] – Learn to take better advantage of Python's best features and improve existing code through a series of code transformations.
+
 
 ## Testing
 
