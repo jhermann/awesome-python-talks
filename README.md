@@ -21,4 +21,4 @@ An opinionated list of awesome videos related to Python, with a focus on trainin
 
 ## Contributing
 
-Contributions are welcome, please open a PR or an issue. In this early stage, proposals for adding missing categories are also useful. In your submissons, pleae stick to the established format of existing entries, and always include a duration and date.
+Contributions are welcome, please open a PR or an issue. Processing these will take a while though, since I'll at least take a peek into new submissions. In this early stage, proposals for adding missing categories are also useful. In your submissons, please stick to the established format of existing entries, and always include a duration and date.
