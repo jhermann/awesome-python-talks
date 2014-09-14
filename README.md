@@ -8,8 +8,8 @@ An opinionated list of awesome videos related to Python, with a focus on trainin
 
 Writing pythonic code in good style, and for humans…
 
-* [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [49 min, PyCon US 2013] – Learn to take better advantage of Python's best features and improve existing code through a series of code transformations.
-* [Stop Writing Classes](http://youtu.be/o9pEzgHorH0) [20 + 7 min, PyCon US 2012] – Python is a multi-paradigm language, and while classes are great, they are also overused. This shows real world code examples and refactors the unnecessary classes, exceptions, and modules out of them – leading to a simplification of 660 SLOC to a mere 5 SLOC in one case.
+* [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [49 min, PyCon US 2013, [slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)] – Learn to take better advantage of Python's best features and improve existing code through a series of code transformations.
+* [Stop Writing Classes](http://youtu.be/o9pEzgHorH0) \[20 + 7 min, PyCon US 2012] – Python is a multi-paradigm language, and while classes are great, they are also overused. This shows real world code examples and refactors the unnecessary classes, exceptions, and modules out of them – leading to a simplification of 660 SLOC to a mere 5 SLOC in one case. But be aware of [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/).
 
 
 ## The New Era
