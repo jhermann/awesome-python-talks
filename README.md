@@ -36,10 +36,14 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 
 ## Testing
 
+![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/pytest-2012.png)
+
 * [pytest: rapid and simple testing with Python](http://www.youtube.com/watch?v=9LVqBQcFmyw) [40 min, PyCon US 2012] – Overview of the py.test tool for rapid and simple  test authoring, introducing common testing terms, basic examples and unique pytest features like reporting for humans and dependency injection.
 
 
 ## Development Tools & Infrastructure
+
+![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/devpi-2013.png)
 
 * [devpi: driving packaging and testing needs](http://www.youtube.com/watch?v=84oOMBUUywI) [55 min, PyCon DE 2013] – Introduction to devpi (shortly before the 1.2 release), which is a private PyPI server, a self-updating `pypi.python.org` package cache, and a work-flow for uploading, testing and installing packages backed by tools.
 
