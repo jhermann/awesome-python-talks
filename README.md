@@ -8,6 +8,9 @@ An opinionated list of awesome videos related to Python, with a focus on trainin
 
 Writing pythonic code in good style, and for humans…
 
+![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/transforming-code.png)
+![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/stop-writing-classes.png)
+
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [49 min, PyCon US 2013, [slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)] – Learn to take better advantage of Python's best features and improve existing code through a series of code transformations.
 * [Stop Writing Classes](http://youtu.be/o9pEzgHorH0) \[20 + 7 min, PyCon US 2012] – Python is a multi-paradigm language, and while classes are great, they are also overused. This shows real world code examples and refactors the unnecessary classes, exceptions, and modules out of them – leading to a simplification of 660 SLOC to a mere 5 SLOC in one case. But be aware of [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/).
 
@@ -15,6 +18,8 @@ Writing pythonic code in good style, and for humans…
 ## The New Era
 
 Python 3 and other ‘modern’ and/or exciting stuff…
+
+![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/python-3.3-better.png)
 
 * [Python 3.3: Trust Me, It's Better than 2.7](http://youtu.be/f_6vDi7ywuA) [35 + 5 min, PyCon US 2013, [slides](https://speakerdeck.com/pyconslides/python-3-dot-3-trust-me-its-better-than-python-2-dot-7-by-dr-brett-cannon)] – A comprehensive overview of new features in Python 3.0 to 3.3, so you know what you need to read about.
 
