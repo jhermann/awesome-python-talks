@@ -24,6 +24,16 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 * [Python 3.3: Trust Me, It's Better than 2.7](http://youtu.be/f_6vDi7ywuA) [35 + 5 min, PyCon US 2013, [slides](https://speakerdeck.com/pyconslides/python-3-dot-3-trust-me-its-better-than-python-2-dot-7-by-dr-brett-cannon)] – A comprehensive overview of new features in Python 3.0 to 3.3, so you know what you need to read about.
 
 
+## Architecture & Software Design
+
+![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/clean-architecture.png)
+
+* [The Clean Architecture in Python](http://youtu.be/DJtef410XaM) [50 min, PyOhio 2014, [slides](http://rhodesmill.org/brandon/slides/2013-10-pyconie/)] – Applying Clean Architecture (a/k/a Hexagonal Architecture) to your Python code, making it more functional, for easier testing and comprehension.
+
+
+## Documentation
+
+
 ## Testing
 
 * [pytest: rapid and simple testing with Python](http://www.youtube.com/watch?v=9LVqBQcFmyw) [40 min, PyCon US 2012] – Overview of the py.test tool for rapid and simple  test authoring, introducing common testing terms, basic examples and unique pytest features like reporting for humans and dependency injection.
