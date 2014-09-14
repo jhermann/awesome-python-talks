@@ -2,6 +2,7 @@
 
 An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 
+![CC0 licensed](http://img.shields.io/badge/license-CC0-red.svg)
 
 ## Being Pythonic
 
