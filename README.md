@@ -4,6 +4,7 @@ An opinionated list of awesome videos related to Python, with a focus on trainin
 
 ![CC0 licensed](http://img.shields.io/badge/license-CC0-red.svg)
 
+
 ## Being Pythonic
 
 Writing pythonic code in good style, and for humans…
@@ -22,6 +23,7 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 ![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/python-3.3-better.png)
 
 * [Python 3.3: Trust Me, It's Better than 2.7](http://youtu.be/f_6vDi7ywuA) [35 + 5 min, PyCon US 2013, [slides](https://speakerdeck.com/pyconslides/python-3-dot-3-trust-me-its-better-than-python-2-dot-7-by-dr-brett-cannon)] – A comprehensive overview of new features in Python 3.0 to 3.3, so you know what you need to read about.
+* **TODO** Tulip + gevent + async in general
 
 
 ## Architecture & Software Design
@@ -33,6 +35,8 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 
 ## Documentation
 
+* **TODO** Sphinx / something on publishing to GH, readthedocs, …?
+
 
 ## Testing
 
@@ -41,16 +45,30 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 * [pytest: rapid and simple testing with Python](http://www.youtube.com/watch?v=9LVqBQcFmyw) [40 min, PyCon US 2012] – Overview of the py.test tool for rapid and simple  test authoring, introducing common testing terms, basic examples and unique pytest features like reporting for humans and dependency injection.
 
 
-## Development Tools & Infrastructure
+## Build Tools & Automation
+
+* **TODO** Paver, doit, buildout, …
+
+
+## Releasing & Packaging
 
 ![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/devpi-2013.png)
 
 * [devpi: driving packaging and testing needs](http://www.youtube.com/watch?v=84oOMBUUywI) [55 min, PyCon DE 2013] – Introduction to devpi (shortly before the 1.2 release), which is a private PyPI server, a self-updating `pypi.python.org` package cache, and a work-flow for uploading, testing and installing packages backed by tools.
+* **TODO** setuptools, pip, wheels, …
+
+
+## DevOps with Python
+
+* **TODO** fabric, Salt, Ansible, …
 
 
 ## Scientific Python
 
 All about data science with Python…
+
+* **TODO** IPython + other basics
+* **TODO** Pandas, bokeh, Anaconda, …
 
 
 ## Related Resources
