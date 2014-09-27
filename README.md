@@ -14,6 +14,7 @@ Writing pythonic code in good style, and for humans…
 
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [49 min, PyCon US 2013, [slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)] – Learn to take better advantage of Python's best features and improve existing code through a series of code transformations.
 * [Stop Writing Classes](http://youtu.be/o9pEzgHorH0) \[20 + 7 min, PyCon US 2012] – Python is a multi-paradigm language, and while classes are great, they are also overused. This shows real world code examples and refactors the unnecessary classes, exceptions, and modules out of them – leading to a simplification of 660 SLOC to a mere 5 SLOC in one case. But be aware of [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/).
+* [A Python Æsthetic: Beauty and Why I Python](http://youtu.be/x-kB2o8sd5c) [47 min, PyCon CA 2012] – Principles of math and typesetting applied to your Python code to make it pleasing to the eye, and thus more readable and maintainable.
 
 
 ## The New Era
@@ -54,8 +55,8 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 
 ![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/devpi-2013.png)
 
-* [devpi: driving packaging and testing needs](http://www.youtube.com/watch?v=84oOMBUUywI) [55 min, PyCon DE 2013] – Introduction to devpi (shortly before the 1.2 release), which is a private PyPI server, a self-updating `pypi.python.org` package cache, and a work-flow for uploading, testing and installing packages backed by tools.
-* [Grug make fire! Grug make wheel!](https://www.youtube.com/watch?v=UtFHIpNPMPA) [27 min, PyCon AU 2014] – A look back at the confusing history of packaging in Python, how things got better and lead to today's formats and tools for releasing Python code.
+* [devpi: driving packaging and testing needs](http://youtu.be/84oOMBUUywI) [55 min, PyCon DE 2013] – Introduction to devpi (shortly before the 1.2 release), which is a private PyPI server, a self-updating `pypi.python.org` package cache, and a work-flow for uploading, testing and installing packages backed by tools.
+* [Grug make fire! Grug make wheel!](http://youtu.be/UtFHIpNPMPA) [27 min, PyCon AU 2014] – A look back at the confusing history of packaging in Python, how things got better and lead to today's formats and tools for releasing Python code.
 
 
 ## DevOps with Python
