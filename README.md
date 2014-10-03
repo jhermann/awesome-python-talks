@@ -78,6 +78,7 @@ All about data science with Python…
 
 * [Awesome Python](https://github.com/vinta/awesome-python) – A curated list of awesome Python frameworks, libraries, and software.
 * [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks) – A list of online talks that people really enjoyed watching, and that are worthy of your time.
+* [Awesome Technical Talks](https://github.com/1and1/awesome-tech-talks)
 
 
 ## Contributing
