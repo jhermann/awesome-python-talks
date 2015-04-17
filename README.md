@@ -12,10 +12,12 @@ Writing pythonic code in good style, and for humans…
 ![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/transforming-code.png)
 ![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/stop-writing-classes.png)
 ![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/python-aesthetic.png)
+![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/beyond-pep8.png)
 
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [49 min, PyCon US 2013, [slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)] – Learn to take better advantage of Python's best features and improve existing code through a series of code transformations.
 * [Stop Writing Classes](http://youtu.be/o9pEzgHorH0) \[20 + 7 min, PyCon US 2012] – Python is a multi-paradigm language, and while classes are great, they are also overused. This shows real world code examples and refactors the unnecessary classes, exceptions, and modules out of them – leading to a simplification of 660 SLOC to a mere 5 SLOC in one case. But be aware of [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/).
 * [A Python Æsthetic: Beauty and Why I Python](http://youtu.be/x-kB2o8sd5c) [47 min, PyCon CA 2012] – Principles of math and typesetting applied to your Python code to make it pleasing to the eye, and thus more readable and maintainable.
+* [Beyond PEP 8 – Best Practices for Beautiful Intelligible Code](https://youtu.be/wf-BqAjZb8M) [52 min, PyCon 2015] – Raymond helps you to spot the Gorilla in your code.
 
 
 ## The New Era
