@@ -79,6 +79,7 @@ All about data science with Python…
 ## Related Resources
 
 * [pyvideo.org](http://pyvideo.org/) – Searchable index of videos related to Python, and also categorized for browsing.
+* [Must-watch videos about Python](https://github.com/s16h/py-must-watch) – Another video collection.
 * [Awesome Python](https://github.com/vinta/awesome-python) – A curated list of awesome Python frameworks, libraries, and software.
 * [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks) – A list of online talks that people really enjoyed watching, and that are worthy of your time.
 * [Awesome Technical Talks](https://github.com/1and1/awesome-tech-talks)
