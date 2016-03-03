@@ -61,6 +61,7 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 
 * [devpi: driving packaging and testing needs](http://youtu.be/84oOMBUUywI) [55 min, PyCon DE 2013] – Introduction to devpi (shortly before the 1.2 release), which is a private PyPI server, a self-updating `pypi.python.org` package cache, and a work-flow for uploading, testing and installing packages backed by tools.
 * [Grug make fire! Grug make wheel!](http://youtu.be/UtFHIpNPMPA) [27 min, PyCon AU 2014] – A look back at the confusing history of packaging in Python, how things got better and lead to today's formats and tools for releasing Python code.
+* [Python Packaging — A Zeitgeist](https://youtu.be/jOiAp3wtx18) \[16 + 4 min, PyCon 2014] — A look at the current state of PyPI and related tooling (still applicable in 2016), and what's to come (PyPI 2.0 and metadata 2.0).
 
 
 ## DevOps with Python
