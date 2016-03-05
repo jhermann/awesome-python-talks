@@ -41,6 +41,8 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 
 ## Documentation
 
+* [Better Documentation Through Automation: Creating Sphinx Extensions](https://youtu.be/8vwtgMkqE9o) \[22 + 5 min, PyCon US 2013] – Learn how to extend Sphinx for custom use-cases, using roles, directives, and builders.
+
 * **TODO** Sphinx / something on publishing to GH, readthedocs, …?
 
 
