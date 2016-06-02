@@ -4,6 +4,20 @@ An opinionated list of awesome videos related to Python, with a focus on trainin
 
 ![CC0 licensed](http://img.shields.io/badge/license-CC0-red.svg)
 
+**Contents**
+
+* [Being Pythonic](#being-pythonic)
+* [The New Era](#the-new-era)
+* [Architecture &amp; Software Design](#architecture--software-design)
+* [Documentation](#documentation)
+* [Testing](#testing)
+* [Build Tools &amp; Automation](#build-tools--automation)
+* [Releasing &amp; Packaging](#releasing--packaging)
+* [DevOps with Python](#devops-with-python)
+* [Scientific Python](#scientific-python)
+* [Related Resources](#related-resources)
+* [Contributing](#contributing)
+
 
 ## Being Pythonic
 
