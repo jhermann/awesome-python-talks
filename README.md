@@ -102,6 +102,7 @@ All about data science with Python…
 
 ## Core Python
 * [The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68) [31 min, Pycon Atlanta 2010] - What happens behind a dictionary in python.
+* [Building and Breaking a Python Sandbox](https://www.youtube.com/watch?v=sL_syMmRkoU) [24 min, Pycon 2014] - Fascinating walk through the lower layers of python interpreter.
 
 ## Related Resources
 
