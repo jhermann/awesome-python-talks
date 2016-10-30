@@ -15,8 +15,10 @@ An opinionated list of awesome videos related to Python, with a focus on trainin
 * [Releasing &amp; Packaging](#releasing--packaging)
 * [DevOps with Python](#devops-with-python)
 * [Scientific Python](#scientific-python)
+* [Core Python](#core-python)
 * [Related Resources](#related-resources)
 * [Contributing](#contributing)
+
 
 
 ## Being Pythonic
@@ -98,6 +100,8 @@ All about data science with Python…
 * **TODO** IPython + other basics
 * **TODO** Pandas, bokeh, Anaconda, …
 
+## Core Python
+* [The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68) [31 min, Pycon Atlanta 2010] - What happens behind a dictionary in python.
 
 ## Related Resources
 
