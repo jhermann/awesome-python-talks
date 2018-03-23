@@ -65,6 +65,7 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 ![❑](https://raw.githubusercontent.com/jhermann/awesome-python-talks/master/static/_thumbs/pytest-2012.png)
 
 * [pytest: rapid and simple testing with Python](http://www.youtube.com/watch?v=9LVqBQcFmyw) [40 min, PyCon US 2012] – Overview of the py.test tool for rapid and simple  test authoring, introducing common testing terms, basic examples and unique pytest features like reporting for humans and dependency injection.
+  * More pytest [Talks and Tutorials](https://docs.pytest.org/en/latest/talks.html)
 
 
 ## Build Tools & Automation
