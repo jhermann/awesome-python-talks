@@ -94,10 +94,16 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 
 All about data science with Python…
 
-* [Bokeh: Interactive Visualizations in the Browser](https://youtu.be/B9NpLOyp-dI) [23 min, SciPy 2014] – An introduction to Bokeh (just after the 0.5 release).
-
 * **TODO** IPython + other basics
 * **TODO** Pandas, bokeh, Anaconda, …
+
+* [IPython Notebook best practices for data science](https://youtu.be/JI1HWUAyJHE) [35 min, oscon Portland 2015] – How to work with Jupyter in a team, and some opinionated tips on workflows and document organization.
+
+
+### Visualization
+
+* [Bokeh: Interactive Visualizations in the Browser](https://youtu.be/B9NpLOyp-dI) [23 min, SciPy 2014] – An introduction to Bokeh (just after the 0.5 release).
+* [The Python Visualization Landscape](https://youtu.be/FytuB8nFHPQ) [33 min, PyCon 2017, Jake VanderPlas] – Very nicely done overview of all the different visualization libraries and frameworks, and how they group together.
 
 
 ## Related Resources
