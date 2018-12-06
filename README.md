@@ -43,6 +43,8 @@ Python 3 and other ‘modern’ and/or exciting stuff…
 * [Python 3.3: Trust Me, It's Better than 2.7](http://youtu.be/f_6vDi7ywuA) [35 + 5 min, PyCon US 2013, [slides](https://speakerdeck.com/pyconslides/python-3-dot-3-trust-me-its-better-than-python-2-dot-7-by-dr-brett-cannon)] – A comprehensive overview of new features in Python 3.0 to 3.3, so you know what you need to read about.
 * [What's coming in Python 3.5 and why you should be excited](https://youtu.be/aintdHnqaio) [41 min, PyData Seattle 2015] – Overview of new features in Python 3.5, and some gotchas.
 
+* [Super considered super!](https://youtu.be/EiOglTERPEo) [47 min, PyCon 2015] – Raymond demonstrates how `super()` works, with people as stand-ins for classes, on stage. ☺
+
 * **TODO** Tulip + gevent + async in general
 
 
